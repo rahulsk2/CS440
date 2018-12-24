@@ -1,0 +1,396 @@
+
+Beta Value===> 0.01
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.02
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.03
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.04
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.05
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.06
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Beta Value===> 0.07
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.08
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.09
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.1
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.11
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.12
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.13
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.14
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.15
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.16
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.17
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.18
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.19
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.2
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.21
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.22
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.23
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.24
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.25
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.26
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.27
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.28
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.29
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.3
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.31
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.32
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.33
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.34
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.35
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.36
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.37
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.38
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.39
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.4
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.41
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.42
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.43
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.44
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.45
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.46
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.47
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.48
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.49
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.5
+You are running the Viterbi algorithm!
+Accuracy: 0.9264813099765513
+
+Beta Value===> 0.51
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.52
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.53
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.54
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.55
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.56
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.57
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.58
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.59
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.6
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.61
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.62
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.63
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.64
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.65
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.66
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.67
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.68
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.69
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.7
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.71
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.72
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.73
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.74
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.75
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.76
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.77
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.78
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.79
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.8
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.81
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.82
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.83
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.84
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.85
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.86
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.87
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.88
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.89
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.9
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.91
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.92
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.93
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.94
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.95
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.96
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.97
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.98
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211
+
+Beta Value===> 0.99
+You are running the Viterbi algorithm!
+Accuracy: 0.9265010147983211

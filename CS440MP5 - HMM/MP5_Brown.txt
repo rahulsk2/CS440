@@ -1,0 +1,104 @@
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.01
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.01
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.02
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.02
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.03
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.03
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.04
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.04
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.05
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.05
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.06
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.06
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.07
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.07
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.08
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.08
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.09
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.09
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.1
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.1
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.11
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.11
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.12
+usage: mp5.py [-h] [--train TRAINING_FILE] [--test TEST_FILE] [--case]
+              [--baseline] [--viterbi] [--alpha] [--beta]
+mp5.py: error: unrecognized arguments: 0.01 0.12
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.13
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.01
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.02
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Alpha Value===> 0.01
+
+Beta Value===> 0.03

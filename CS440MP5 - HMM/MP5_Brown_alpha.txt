@@ -1,0 +1,396 @@
+
+Alpha Value===> 0.01
+You are running the Viterbi algorithm!
+Accuracy: 0.9264419003330114
+
+Alpha Value===> 0.02
+You are running the Viterbi algorithm!
+Accuracy: 0.9264024906894717
+
+Alpha Value===> 0.03
+You are running the Viterbi algorithm!
+Accuracy: 0.9263039665806223
+
+Alpha Value===> 0.04
+You are running the Viterbi algorithm!
+Accuracy: 0.9260280990758438
+
+Alpha Value===> 0.05
+You are running the Viterbi algorithm!
+Accuracy: 0.9259492797887643
+
+Alpha Value===> 0.06
+You are running the Viterbi algorithm!
+Accuracy: 0.9250231531655796
+
+Alpha Value===> 0.07
+You are running the Viterbi algorithm!
+Accuracy: 0.9249837435220398
+
+Alpha Value===> 0.08
+You are running the Viterbi algorithm!
+Accuracy: 0.9246684663737217
+
+Alpha Value===> 0.09
+You are running the Viterbi algorithm!
+Accuracy: 0.9244123036907131
+
+Alpha Value===> 0.1
+You are running the Viterbi algorithm!
+Accuracy: 0.9241955506512444
+
+Alpha Value===> 0.11
+You are running the Viterbi algorithm!
+Accuracy: 0.9230329661668211
+
+Alpha Value===> 0.12
+You are running the Viterbi algorithm!
+Accuracy: 0.9225600504443437
+
+Alpha Value===> 0.13
+You are running the Viterbi algorithm!
+Accuracy: 0.9224615263354943
+
+Alpha Value===> 0.14
+You are running the Viterbi algorithm!
+Accuracy: 0.9222644781177954
+
+Alpha Value===> 0.15
+You are running the Viterbi algorithm!
+Accuracy: 0.9221462491871761
+
+Alpha Value===> 0.16
+You are running the Viterbi algorithm!
+Accuracy: 0.9214959900687698
+
+Alpha Value===> 0.17
+You are running the Viterbi algorithm!
+Accuracy: 0.9210033695245227
+
+Alpha Value===> 0.18
+You are running the Viterbi algorithm!
+Accuracy: 0.920412224871426
+
+Alpha Value===> 0.19
+You are running the Viterbi algorithm!
+Accuracy: 0.920254586297267
+
+Alpha Value===> 0.2
+You are running the Viterbi algorithm!
+Accuracy: 0.9195255078917811
+
+Alpha Value===> 0.21
+You are running the Viterbi algorithm!
+Accuracy: 0.9193087548523123
+
+Alpha Value===> 0.22
+You are running the Viterbi algorithm!
+Accuracy: 0.9185993812685964
+
+Alpha Value===> 0.23
+You are running the Viterbi algorithm!
+Accuracy: 0.91796882697196
+
+Alpha Value===> 0.24
+You are running the Viterbi algorithm!
+Accuracy: 0.9179097125066504
+
+Alpha Value===> 0.25
+You are running the Viterbi algorithm!
+Accuracy: 0.917791483576031
+
+Alpha Value===> 0.26
+You are running the Viterbi algorithm!
+Accuracy: 0.9174565016059429
+
+Alpha Value===> 0.27
+You are running the Viterbi algorithm!
+Accuracy: 0.9173776823188634
+
+Alpha Value===> 0.28
+You are running the Viterbi algorithm!
+Accuracy: 0.9173185678535538
+
+Alpha Value===> 0.29
+You are running the Viterbi algorithm!
+Accuracy: 0.9172200437447043
+
+Alpha Value===> 0.3
+You are running the Viterbi algorithm!
+Accuracy: 0.917101814814085
+
+Alpha Value===> 0.31
+You are running the Viterbi algorithm!
+Accuracy: 0.917101814814085
+
+Alpha Value===> 0.32
+You are running the Viterbi algorithm!
+Accuracy: 0.9164515556956787
+
+Alpha Value===> 0.33
+You are running the Viterbi algorithm!
+Accuracy: 0.9161559833691304
+
+Alpha Value===> 0.34
+You are running the Viterbi algorithm!
+Accuracy: 0.9156042483595735
+
+Alpha Value===> 0.35
+You are running the Viterbi algorithm!
+Accuracy: 0.915348085676565
+
+Alpha Value===> 0.36
+You are running the Viterbi algorithm!
+Accuracy: 0.9152889712112554
+
+Alpha Value===> 0.37
+You are running the Viterbi algorithm!
+Accuracy: 0.9149145795976276
+
+Alpha Value===> 0.38
+You are running the Viterbi algorithm!
+Accuracy: 0.9147766458452383
+
+Alpha Value===> 0.39
+You are running the Viterbi algorithm!
+Accuracy: 0.9146387120928491
+
+Alpha Value===> 0.4
+You are running the Viterbi algorithm!
+Accuracy: 0.9141460915486019
+
+Alpha Value===> 0.41
+You are running the Viterbi algorithm!
+Accuracy: 0.9137716999349741
+
+Alpha Value===> 0.42
+You are running the Viterbi algorithm!
+Accuracy: 0.913614061360815
+
+Alpha Value===> 0.43
+You are running the Viterbi algorithm!
+Accuracy: 0.9134564227866558
+
+Alpha Value===> 0.44
+You are running the Viterbi algorithm!
+Accuracy: 0.9131214408165678
+
+Alpha Value===> 0.45
+You are running the Viterbi algorithm!
+Accuracy: 0.9129835070641786
+
+Alpha Value===> 0.46
+You are running the Viterbi algorithm!
+Accuracy: 0.9129243925988689
+
+Alpha Value===> 0.47
+You are running the Viterbi algorithm!
+Accuracy: 0.9127667540247099
+
+Alpha Value===> 0.48
+You are running the Viterbi algorithm!
+Accuracy: 0.9122544286586928
+
+Alpha Value===> 0.49
+You are running the Viterbi algorithm!
+Accuracy: 0.9118406274015252
+
+Alpha Value===> 0.5
+You are running the Viterbi algorithm!
+Accuracy: 0.9117618081144456
+
+Alpha Value===> 0.51
+You are running the Viterbi algorithm!
+Accuracy: 0.9117223984709059
+
+Alpha Value===> 0.52
+You are running the Viterbi algorithm!
+Accuracy: 0.9116435791838263
+
+Alpha Value===> 0.53
+You are running the Viterbi algorithm!
+Accuracy: 0.9114268261443575
+
+Alpha Value===> 0.54
+You are running the Viterbi algorithm!
+Accuracy: 0.911348006857278
+
+Alpha Value===> 0.55
+You are running the Viterbi algorithm!
+Accuracy: 0.9108947959565705
+
+Alpha Value===> 0.56
+You are running the Viterbi algorithm!
+Accuracy: 0.9104809946994029
+
+Alpha Value===> 0.57
+You are running the Viterbi algorithm!
+Accuracy: 0.9104415850558631
+
+Alpha Value===> 0.58
+You are running the Viterbi algorithm!
+Accuracy: 0.9102642416599341
+
+Alpha Value===> 0.59
+You are running the Viterbi algorithm!
+Accuracy: 0.9099095548680762
+
+Alpha Value===> 0.6
+You are running the Viterbi algorithm!
+Accuracy: 0.9097519162939172
+
+Alpha Value===> 0.61
+You are running the Viterbi algorithm!
+Accuracy: 0.9095154584326784
+
+Alpha Value===> 0.62
+You are running the Viterbi algorithm!
+Accuracy: 0.9094366391455989
+
+Alpha Value===> 0.63
+You are running the Viterbi algorithm!
+Accuracy: 0.908707560740113
+
+Alpha Value===> 0.64
+You are running the Viterbi algorithm!
+Accuracy: 0.9081755305523261
+
+Alpha Value===> 0.65
+You are running the Viterbi algorithm!
+Accuracy: 0.9080178919781671
+
+Alpha Value===> 0.66
+You are running the Viterbi algorithm!
+Accuracy: 0.9077420244733886
+
+Alpha Value===> 0.67
+You are running the Viterbi algorithm!
+Accuracy: 0.9070917653549824
+
+Alpha Value===> 0.68
+You are running the Viterbi algorithm!
+Accuracy: 0.9069538316025931
+
+Alpha Value===> 0.69
+You are running the Viterbi algorithm!
+Accuracy: 0.9069144219590534
+
+Alpha Value===> 0.7
+You are running the Viterbi algorithm!
+Accuracy: 0.9067961930284341
+
+Alpha Value===> 0.71
+You are running the Viterbi algorithm!
+Accuracy: 0.9063823917712664
+
+Alpha Value===> 0.72
+You are running the Viterbi algorithm!
+Accuracy: 0.9061853435535676
+
+Alpha Value===> 0.73
+You are running the Viterbi algorithm!
+Accuracy: 0.9061853435535676
+
+Alpha Value===> 0.74
+You are running the Viterbi algorithm!
+Accuracy: 0.9061853435535676
+
+Alpha Value===> 0.75
+You are running the Viterbi algorithm!
+Accuracy: 0.9058503615834794
+
+Alpha Value===> 0.76
+You are running the Viterbi algorithm!
+Accuracy: 0.9051212831779937
+
+Alpha Value===> 0.77
+You are running the Viterbi algorithm!
+Accuracy: 0.9047468915643658
+
+Alpha Value===> 0.78
+You are running the Viterbi algorithm!
+Accuracy: 0.9045695481684368
+
+Alpha Value===> 0.79
+You are running the Viterbi algorithm!
+Accuracy: 0.904530138524897
+
+Alpha Value===> 0.8
+You are running the Viterbi algorithm!
+Accuracy: 0.9039981083371101
+
+Alpha Value===> 0.81
+You are running the Viterbi algorithm!
+Accuracy: 0.9036040119017124
+
+Alpha Value===> 0.82
+You are running the Viterbi algorithm!
+Accuracy: 0.9035054877928629
+
+Alpha Value===> 0.83
+You are running the Viterbi algorithm!
+Accuracy: 0.9032887347533941
+
+Alpha Value===> 0.84
+You are running the Viterbi algorithm!
+Accuracy: 0.9031705058227748
+
+Alpha Value===> 0.85
+You are running the Viterbi algorithm!
+Accuracy: 0.9031113913574652
+
+Alpha Value===> 0.86
+You are running the Viterbi algorithm!
+Accuracy: 0.9030128672486157
+
+Alpha Value===> 0.87
+You are running the Viterbi algorithm!
+Accuracy: 0.9029931624268458
+
+Alpha Value===> 0.88
+You are running the Viterbi algorithm!
+Accuracy: 0.9027764093873771
+
+Alpha Value===> 0.89
+You are running the Viterbi algorithm!
+Accuracy: 0.9024611322390589
+
+Alpha Value===> 0.9
+You are running the Viterbi algorithm!
+Accuracy: 0.902441427417289
+
+Alpha Value===> 0.91
+You are running the Viterbi algorithm!
+Accuracy: 0.9023231984866696
+
+Alpha Value===> 0.92
+You are running the Viterbi algorithm!
+Accuracy: 0.9022837888431299
+
+Alpha Value===> 0.93
+You are running the Viterbi algorithm!
+Accuracy: 0.9022837888431299
+
+Alpha Value===> 0.94
+You are running the Viterbi algorithm!
+Accuracy: 0.9021261502689708
+
+Alpha Value===> 0.95
+You are running the Viterbi algorithm!
+Accuracy: 0.9016926441900333
+
+Alpha Value===> 0.96
+You are running the Viterbi algorithm!
+Accuracy: 0.9016729393682634
+
+Alpha Value===> 0.97
+You are running the Viterbi algorithm!
+Accuracy: 0.9014364815070248
+
+Alpha Value===> 0.98
+You are running the Viterbi algorithm!
+Accuracy: 0.9006482886362293
+
+Alpha Value===> 0.99
+You are running the Viterbi algorithm!
+Accuracy: 0.9005694693491497

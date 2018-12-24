@@ -1,0 +1,155 @@
+import utils
+import sys
+import math
+import numpy as np
+import random
+
+class Agent:
+    def __init__(self, actions, two_sided = False):
+        self._actions = actions
+        self.two_sided = two_sided
+        self._train = True
+        self._x_bins = utils.X_BINS
+        self._y_bins = utils.Y_BINS
+        self._v_x = utils.V_X
+        self._v_y = utils.V_Y
+        self._paddle_locations = utils.PADDLE_LOCATIONS
+        self._num_actions = utils.NUM_ACTIONS
+        # Create the Q Table to work with
+        self.Q = utils.create_q_table()
+        self.prev_state = None
+        self.prev_action = None
+        self.prev_reward = None
+        self.N = utils.create_q_table()
+        self.Ne = 50
+        self.prev_bounces = 0
+        self.gamesCount = 0
+
+    """
+    state:
+            return [
+                self.ball_x,
+                self.ball_y,
+                self.velocity_x,
+                self.velocity_y,
+                self.paddle_y,
+                self.opponent_y,
+            ]
+
+    q : ((X_BINS,Y_BINS,V_X,V_Y,PADDLE_LOCATIONS,NUM_ACTIONS))
+
+    """
+    def act(self, state, bounces, done, won):
+        gamma = 0.7
+        alpha = 0.04 #self.alpha(self.N[tuple(self.prev_state)][self.prev_action])
+        d_state = discretize(state)
+        if self._train:
+            new_action = self.f_alt(self.Q[tuple(d_state)], self.N[tuple(d_state)])
+            if self.prev_state:
+                self.N[tuple(self.prev_state)][self.prev_action] += 1
+                self.Q[tuple(self.prev_state)][self.prev_action] += alpha * (
+                    self.reward(bounces, done, won) + gamma * self.Q[tuple(d_state)][new_action] - self.Q[tuple(self.prev_state)][self.prev_action])
+
+            self.prev_action = new_action
+            if done:
+                self.prev_state = None
+                self.prev_bounces = 0
+            else:
+                self.prev_state = d_state
+                self.prev_bounces = bounces
+            return self.prev_action
+        else:
+            return self.f_alt(self.Q[tuple(d_state)], self.N[tuple(d_state)])#self._actions[np.argmax(self.Q[tuple(d_state)])]
+
+
+    def alpha(self, N):
+        C = 1
+        return (C/(C+N))
+
+    def train(self):
+        self._train = True
+
+    def eval(self):
+        self._train = False
+
+    def save_model(self,model_path):
+        # At the end of training save the trained model
+        utils.save(model_path,self.Q)
+
+    def load_model(self,model_path):
+        # Load the trained model for evaluation
+        self.Q = utils.load(model_path)
+
+    def f(self, Q_state, N_state):
+        max_value = -sys.maxsize
+        max_action = -1
+        for each_action in self._actions:
+            if N_state[each_action] < self.Ne:
+                # print("Explored")
+                return each_action
+            else:
+                curr_value = Q_state[each_action]
+            if curr_value > max_value:
+                max_value = curr_value
+                max_action = each_action
+        # print("Exploited")
+        return max_action
+
+    def f_alt(self, Q_state, N_state):
+        if self.gamesCount < 200000 or (self.gamesCount % 5 == 0 and not self._train):
+            return random.randint(-1, 1)
+        else:
+            max_value = -sys.maxsize
+            max_action = -1
+            for each_action in self._actions:
+                curr_value = Q_state[each_action]
+                if curr_value > max_value:
+                    max_value = curr_value
+                    max_action = each_action
+            # print("Exploited")
+            return max_action
+
+
+
+
+    def reward(self, bounces, done, won):
+        if done and not won:
+            self.gamesCount += 1
+            return -1
+        if done and won:
+            self.gamesCount += 1
+            return 1
+        else:
+            return 0
+
+
+def discretize(state):
+    ball_x = state[0]
+    ball_y = state[1]
+    velocity_x = state[2]
+    velocity_y = state[3]
+    paddle_y = state[4]
+    d_ball_x = int(round(ball_x * 12))
+    if d_ball_x >= 12:
+        d_ball_x = 11
+    if d_ball_x < 0:
+        d_ball_x = 0
+    d_ball_y = int(round(ball_y * 12))
+    if d_ball_y >= 12:
+        d_ball_y = 11
+    if d_ball_y < 0:
+        d_ball_y = 0
+    if velocity_x > 0:
+        d_velocity_x = 1
+    else:
+        d_velocity_x = -1
+    if velocity_y > 0.015:
+        d_velocity_y = 1
+    elif velocity_y < -0.015:
+        d_velocity_y = -1
+    else:
+        d_velocity_y = 0
+    d_paddle = int(math.floor(12 * paddle_y / (0.8)))
+    if d_paddle >= 12:
+        d_paddle = 11
+    return [d_ball_x, d_ball_y, d_velocity_x, d_velocity_y, d_paddle]
